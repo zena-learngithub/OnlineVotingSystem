@@ -1,0 +1,13 @@
+# Ignore compiled Java files
+bin/
+*.class
+*.jar
+*.log
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore Eclipse files
+*.project
+*.classpath
